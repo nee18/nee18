@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a 3rd-year student of Informatics Engineering at the University of Muhammadiyah Ponorogo then I'm on learning Javascript Language (Node.JS) in Express.js, and Sequelize.js Framework, then for API recently using Postman, also I’m interested in Algoritm Topic. 
+<br>GitHub & GitLab : nee18</br>
+
+<br>If you are interested in getting to know me, follow my [Linkedin](https://www.linkedin.com/in/nely-dwi-agustin-623447231/) account.</br>
 
 <!--
 **nee18/nee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
