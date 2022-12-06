@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm student of Informatics Engineering at the University of Muhammadiyah Ponorogo. I'm on learning JavaScript Language Node.JS in Express.JS, and Sequelize.JS Framework, then for API using Postman. I'm a graduate from Binar Academy’s Back End JavaScript course, wave #2, also I’m interested in Algoritm Topic.
+I'm student of Informatics Engineering at the University of Muhammadiyah Ponorogo. I'm a graduate from Binar Academy’s Back End JavaScript course, wave #2, also I’m interested in Algoritm Topic.
 
 The beginning of my journey as a Back End Developer was in the 6th semester of my study when I Joined a Back End JavaScript course, wave #2 at PT LENTERA BANGSA BENDERANG.
 
