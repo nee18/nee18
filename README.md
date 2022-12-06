@@ -1,9 +1,13 @@
 ### Hi there 👋
-I'm student of Informatics Engineering at the University of Muhammadiyah Ponorogo then I'm on learning Javascript Language, also I’m interested in Algoritm Topic. 
-<br>GitHub & GitLab : nee18</br>
+I'm student of Informatics Engineering at the University of Muhammadiyah Ponorogo. I'm on learning JavaScript Language Node.JS in Express.JS, and Sequelize.JS Framework, then for API using Postman. I'm a graduate from Binar Academy’s Back End JavaScript course, wave #2, also I’m interested in Algoritm Topic.
 
-<br>If you are interested, follow my [Linkedin](https://www.linkedin.com/in/nely-dwi-agustin-623447231/) account.</br>
-<br>Let's connect, or you can reach me out through nelydwia@gmail.com
+The beginning of my journey as a Back End Developer was in the 6th semester of my study when I Joined a Back End JavaScript course, wave #2 at PT LENTERA BANGSA BENDERANG.
+
+After that, I also took at Independend Study at PT Dicoding Akademi Indonesia as a Front End Web and Back End Developer for 6 month. Moreover I have skills in this field such as Full Stack Developer. 
+
+Let's connect, or you can reach me out through nelydwia@gmail.com 
+
+If you are interested, follow my [Linkedin](https://www.linkedin.com/in/nely-dwi-agustin-623447231/) account.
 
 <!--
 **nee18/nee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
