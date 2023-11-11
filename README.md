@@ -42,11 +42,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nee18&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Educations
-<p align="left">
-<img height="100" src="https://assets-global.website-files.com/62fdaf934899cf5b43a00e1a/63044fb2037ff41cbd6efdcc_logo_binar_purple.svg">
-  <br>
-<img height="100" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/certificate_logo.png">
-</p>
-
