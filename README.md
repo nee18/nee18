@@ -1,13 +1,23 @@
-### Hi there 👋
-I'm student of Informatics Engineering at the University of Muhammadiyah Ponorogo. I'm a graduate from Binar Academy’s Back End JavaScript course, wave #2, also I’m interested in Algoritm Topic.
+<h1 align="center">
+  <b>Nely Dwi Agustin</b>
+</h1>
 
-The beginning of my journey as a Back End Developer was in the 6th semester of my study when I Joined a Back End JavaScript course, wave #2 at PT LENTERA BANGSA BENDERANG.
-
-After that, I also took at Independend Study at PT Dicoding Akademi Indonesia as a Front End Web and Back End Developer for 6 month. Moreover I have skills in this field such as Full Stack Developer. 
-
-Let's connect, or you can reach me out through nelydwia@gmail.com 
-
-If you are interested, follow my [Linkedin](https://www.linkedin.com/in/nely-dwi-agustin-623447231/) account.
+<p align="center">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  </p>
+  
+<p align="center">
+  <a target="_blank">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nee18&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
+  </a>
+</p>
 
 <!--
 **nee18/nee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +33,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### GitHub Statistic
-<p align="left">
+
+### Contact Me :
+[nelydwia@gmail.com](mailto:nelydwia@gmail.com)
+
+### GitHub Statistic 📈
+<p align="center">
 <a href="https://github.com/nee18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nee18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nee18&layout=compact&langs_count=8&theme=algolia"/>
