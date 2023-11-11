@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact Me :
-[nelydwia@gmail.com](mailto:nelydwia@gmail.com)
-
 ### GitHub Statistic 📈
 <p align="center">
 <a href="https://github.com/nee18">
