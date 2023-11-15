@@ -15,8 +15,8 @@
   
 <p align="center">
   <a target="https://www.linkedin.com/in/nelydwiagustin/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nee18&theme=gruvbox&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
+    <img height="180em" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nee18&theme=gruvbox&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
   </a>
 </p>
 
