@@ -15,7 +15,8 @@
   
 <p align="center">
   <a target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nee18&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
