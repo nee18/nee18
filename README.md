@@ -14,7 +14,7 @@
 </p>
   
 <p align="center">
-  <a herf="https://www.linkedin.com/in/nelydwiagustin/">
+  <a herf="https://www.linkedin.com/in/nelydwiagustin/" target="_blank">
     <img height="180em" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nee18&theme=gruvbox&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nee18&show_icons=true&theme=gotham" alt="nee18" />
   </a>
